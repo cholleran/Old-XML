@@ -1,0 +1,20 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Library>
+	<Book ISBN-13="978-150930452" category="Technical">
+		<Author>Rob Miles</Author>
+		<Title>Begin to Code with Python</Title>
+	<Book/>
+	<Book ISBN-13="978-1108716833" category="Technical">
+		<Author>Nichola Lacey</Author>
+		<Title>Python by Example</Title>
+	<Book/>	
+	<Book ISBN-13="978-1784725846" category="Cookery">
+		<Author>Diana Henry</Author>
+		<Title>From the Oven to the Table:</Title>
+	<Book/>		
+	<Book ISBN-13="978-0718187729" category="Cookery">
+		<Author>Jamie Oliver</Author>
+		<Title>5 Ingredients</Title>
+	<Book/>
+</Library>
