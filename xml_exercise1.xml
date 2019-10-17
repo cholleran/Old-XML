@@ -1,0 +1,8 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<root-element attribute-name="attribute-value">
+	<child name="value">Text</child>
+	<child name="value">Text</child>
+	<child>&it is an example of encoding</child>
+	<lone-warrior/>
+</root-element/>
